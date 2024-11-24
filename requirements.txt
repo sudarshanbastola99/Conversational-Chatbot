@@ -1,0 +1,9 @@
+langchain_core
+langchain_openai
+python-dotenv
+streamlit
+langchain_community
+langserve
+pypdf
+beautifulsoup4
+langchainhub
